@@ -27,3 +27,4 @@ http://site1.docker:8002/api/method/user_impersonate.auth.is_impersonated
 
 #### License
 MIT
+Updated
