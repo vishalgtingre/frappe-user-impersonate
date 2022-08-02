@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include user_impersonate *.css
+recursive-include user_impersonate *.csv
+recursive-include user_impersonate *.html
+recursive-include user_impersonate *.ico
+recursive-include user_impersonate *.js
+recursive-include user_impersonate *.json
+recursive-include user_impersonate *.md
+recursive-include user_impersonate *.png
+recursive-include user_impersonate *.py
+recursive-include user_impersonate *.svg
+recursive-include user_impersonate *.txt
+recursive-exclude user_impersonate *.pyc
